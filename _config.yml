@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "I am dj"
-  avatar           : "/assets/images/djphoto.jpg"
+  avatar           : "/Users/박대주/Pictures/djphoto.jpg" # assets/images/djphoto.jpg
   bio              : "Dreaming of becoming a **Data Scientist**"
   location         : "Busan, south korea"
   email            : 
