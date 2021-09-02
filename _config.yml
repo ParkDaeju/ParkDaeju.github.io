@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "나만의 공부방"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : # "Your Name"
 description              : "An amazing website."
 url                      : "https://ParkDaeju.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
