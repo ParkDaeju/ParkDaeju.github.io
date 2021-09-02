@@ -8,9 +8,9 @@ main:
   #  url: /year-archive/
   #- title: "Sample Collections"
   #  url: /collection-archive/
-  #- title: "Sitemap"
-  #  url: /sitemap/
-   - title: "Home"
-    url: https://parkdaeju.github.io/
+  - title: "Sitemap"
+    url: /sitemap/
+  # - title: "Home"
+  #  url: https://parkdaeju.github.io/
   - title: "Category"
     url: /categories/
