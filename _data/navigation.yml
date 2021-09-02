@@ -11,6 +11,6 @@ main:
   #- title: "Sitemap"
   #  url: /sitemap/
   = title: "홈"
-    url" http://parkdaeju.github.io/
+    url: http://parkdaeju.github.io/
   - title: "카테고리"
     url: /categories/
