@@ -4,7 +4,7 @@ main:
     url: https://parkdaeju.github.io/
   #- title: "윤동주"
   #  url: /categories/윤동주/
-  - title: "Categories"
+  - title: "Category"
     url: /categories/
   #- title: "Tags"
   #  url: /tags/
