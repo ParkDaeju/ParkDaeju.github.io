@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "air" # "default", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en-KR"
 title                    : "나만의 공부방"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
